@@ -1,0 +1,156 @@
+site_name: APPS UCU Guidebook
+site_description: Гайдбук використання логотипів та фірмової стилістики Факультету прикладних наук УКУ
+site_author: Applied Sciences Faculty UCU
+site_url: https://apps.ucu.edu.ua/guidebook
+repo_url: https://github.com/ucu-apps/guidebook
+repo_name: ucu-apps/guidebook
+
+theme:
+  name: material
+  palette:
+    # Catppuccin Latte (Light mode)
+    - scheme: latte
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to Frappé
+
+    # Catppuccin Frappé (Dark mode - coolest)
+    - scheme: frappe
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to Macchiato
+
+    # Catppuccin Macchiato (Dark mode - warm)
+    - scheme: macchiato
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-partly-cloudy
+        name: Switch to Mocha
+
+    # Catppuccin Mocha (Dark mode - warmest)
+    - scheme: mocha
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-cloudy
+        name: Switch to Latte
+  logo: assets/logo/logo_aps_eng.svg
+  favicon: assets/logo/logo_aps_eng.svg
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+
+# Extra CSS for Catppuccin themes
+extra_css:
+  - stylesheets/extra.css
+# Navigation structure
+nav:
+  - Home: index.md
+  - APPS UCU: apps_ucu.md
+  - Логотипи:
+    - Огляд: logos/index.md
+    - Логотип УКУ: logos/uku-logo.md
+    - DataX: logos/datax-logo.md
+  - Brand:
+    - Кольори: brand/colors.md
+    - Типографіка: brand/fonts.md
+    - Правила використання: brand/guidelines.md
+  - Шаблони:
+    - Огляд: corporate/index.md
+    - Візитки: corporate/business-cards.md
+    - Презентації: corporate/presentations.md
+    - Бланки: corporate/letterhead.md
+    - Сертифікати: corporate/certificates.md
+    - Email-підписи: corporate/email-signatures.md
+  - Завантаження: assets/downloads.md
+
+plugins:
+  - search:
+
+
+# Markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Copyright notice
+copyright: Copyright &copy; 2025 Факультет прикладних наук УКУ
+
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/ucu.apps
+      name: Instagram
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/csatucu
+      name: Facebook
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/ucu-apps
+      name: LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/ucu-apps
+      name: GitHub
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/buttons.css
+
+# extra_javascript:
+#   - javascripts/extra.js
