@@ -1,0 +1,91 @@
+/* ========================================
+   Outline Button Styles
+   ======================================== */
+
+/* Hero Buttons Container */
+.hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+/* Base Button - Outline Style */
+.md-typeset .md-button {
+  background-color: transparent !important;
+  border: 2px solid #8bc751 !important;
+  color: #8bc751 !important;
+  border-radius: 8px;
+  font-weight: 600;
+  padding: 0.8rem 1.5rem;
+  transition: all 0.25s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none !important;
+}
+
+.md-typeset .md-button:hover {
+  background-color: #8bc751 !important;
+  color: #1a1a2e !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(139, 199, 81, 0.4);
+}
+
+/* Primary Button - Same Outline Style */
+.md-typeset .md-button--primary {
+  background-color: transparent !important;
+  border: 2px solid #8bc751 !important;
+  color: #8bc751 !important;
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: #8bc751 !important;
+  color: #1a1a2e !important;
+  box-shadow: 0 4px 15px rgba(139, 199, 81, 0.4);
+}
+
+/* ========================================
+   Light Theme (Latte)
+   ======================================== */
+[data-md-color-scheme="latte"] .md-typeset .md-button {
+  background-color: transparent !important;
+  border: 2px solid #662d91 !important;
+  color: #662d91 !important;
+}
+
+[data-md-color-scheme="latte"] .md-typeset .md-button:hover {
+  background-color: #662d91 !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 15px rgba(102, 45, 145, 0.3);
+}
+
+[data-md-color-scheme="latte"] .md-typeset .md-button--primary {
+  border: 2px solid #8bc751 !important;
+  color: #8bc751 !important;
+}
+
+[data-md-color-scheme="latte"] .md-typeset .md-button--primary:hover {
+  background-color: #8bc751 !important;
+  color: #1a1a2e !important;
+}
+
+/* ========================================
+   Dark Themes (Frappe, Macchiato, Mocha)
+   ======================================== */
+[data-md-color-scheme="frappe"] .md-typeset .md-button,
+[data-md-color-scheme="macchiato"] .md-typeset .md-button,
+[data-md-color-scheme="mocha"] .md-typeset .md-button {
+  background-color: transparent !important;
+  border: 2px solid #8bc751 !important;
+  color: #8bc751 !important;
+}
+
+[data-md-color-scheme="frappe"] .md-typeset .md-button:hover,
+[data-md-color-scheme="macchiato"] .md-typeset .md-button:hover,
+[data-md-color-scheme="mocha"] .md-typeset .md-button:hover {
+  background-color: #8bc751 !important;
+  color: #1a1a2e !important;
+  box-shadow: 0 4px 15px rgba(139, 199, 81, 0.4);
+}
