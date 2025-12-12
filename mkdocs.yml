@@ -41,6 +41,7 @@ theme:
         name: Switch to Latte
   logo: assets/logo/logo_aps_eng.svg
   favicon: assets/logo/logo_aps_eng.svg
+  custom_dir: docs/overrides
   font:
     text: Inter
     code: JetBrains Mono
@@ -84,7 +85,13 @@ nav:
   - Завантаження: assets/downloads.md
 
 plugins:
-  - search:
+  - search
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: false
+  - macros
+
+
 
 
 # Markdown extensions
@@ -130,7 +137,7 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Copyright notice
-copyright: Copyright &copy; 2025 Факультет прикладних наук УКУ
+copyright: "Copyright &copy; 2025 Факультет прикладних наук УКУ"
 
 # Additional configuration
 extra:
@@ -145,8 +152,15 @@ extra:
       link: https://linkedin.com/company/ucu-apps
       name: LinkedIn
     - icon: fontawesome/brands/github
-      link: https://github.com/ucu-apps
+      link: https://github.com/ucuapps
       name: GitHub
+  contact:
+    faculty: "Факультет прикладних наук УКУ"
+    email: "apps@ucu.edu.ua"
+    phone_display: "+380 32 240 99 44"
+    phone: "+380322409944"
+    website_label: "apps.ucu.edu.ua"
+    website_url: "https://apps.ucu.edu.ua"
 
 extra_css:
   - stylesheets/extra.css

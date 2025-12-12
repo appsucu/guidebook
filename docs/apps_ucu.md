@@ -4,7 +4,7 @@
   <img src="/guidebook/assets/logo/logo_aps_eng.svg" alt="APPS UCU Logo" style="max-width: 400px; width: 100%;">
 </div>
 
-Факультет прикладних наук Українського католицького університету — це новий стандарт ІТ-освіти в Україні. Ми готуємо лідерів індустрії, які змінюють сьогодення та майбутнє України і світу своїми знаннями, навичками та цінностями.
+Факультет прикладних наук Українського католицького університету відзначив 10 років у травні 2025 року. Наші бакалаврські програми "Комп'ютерні науки", "ІТ та аналітика рішень", "Робототехніка", магістерська програма "Науки про дані", а також докторська програма "Інтелектуальні системи" розширюють фронтири освіти у сфері комп'ютерних наук та інформаційних технологій.
 
 ---
 
@@ -12,29 +12,23 @@
 
 <div class="grid cards" markdown>
 
--   :material-briefcase:{ .lg .middle } **Практико-орієнтоване навчання**
+- :material-briefcase:{ .lg .middle } **Практично-орієнтоване навчання**
 
-    ---
+    ***
 
-    Програми стажування у провідних ІТ-компаніях України та світу
+    Програми стажування у провідних ІТ-компаніях
 
--   :material-school:{ .lg .middle } **Світовий рівень викладання**
+- :material-flask:{ .lg .middle } **Наукові дослідження**
 
-    ---
-
-    Викладачі з досвідом роботи в Google, Meta, Amazon та інших топ-компаніях
-
--   :material-flask:{ .lg .middle } **Наукові дослідження**
-
-    ---
+    ***
 
     Власна Machine Learning лабораторія та членство в ELLIS
 
--   :material-account-group:{ .lg .middle } **Спільнота**
+- :material-account-group:{ .lg .middle } **Спільнота**
 
-    ---
+    ***
 
-    AI Meetups, літні школи та активна alumni-мережа
+    AI Meetups, NeuroUAI, літні школи та активна alumni-мережа
 
 </div>
 
@@ -44,30 +38,32 @@
 
 ### Бакалаврат
 
-| Програма | Опис |
-|----------|------|
-| **Computer Science** | Фундаментальна підготовка з комп'ютерних наук |
-| **IT and Business Analytics** | Поєднання ІТ та бізнес-аналітики |
-| **Robotics** | Робототехніка та вбудовані системи |
+| Програма                   | Посилання                                                                                   |
+| -------------------------- | ------------------------------------------------------------------------------------------- |
+| **Комп'ютерні науки**      | [Детальніше](https://apps.ucu.edu.ua/programs/computer-science/)                            |
+| **ІТ та аналітика рішень** | [Детальніше](https://apps.ucu.edu.ua/programs/bakalavrska-programa-it-ta-biznes-analityka/) |
+| **Робототехніка**          | [Детальніше](https://apps.ucu.edu.ua/programs/bakalavrska-programa-robotics/)               |
 
 ### Магістратура
 
-| Програма | Опис |
-|----------|------|
-| **Data Science** | Наука про дані та машинне навчання |
-| **Data Engineering** | Інженерія даних та Big Data |
-| **Data Analytics** | Аналітика даних для бізнесу |
+| Програма                          | Посилання                                                                                    |
+| --------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Науки про дані (Data Science)** | [Детальніше](https://apps.ucu.edu.ua/programs/magisterska-osvitnya-programa-nauky-pro-dani/) |
 
 ### Докторантура
 
-| Програма | Опис |
-|----------|------|
-| **PhD in Intelligent Systems** | Дослідження у сфері штучного інтелекту |
+| Програма                       | Посилання                                                                  |
+| ------------------------------ | -------------------------------------------------------------------------- |
+| **PhD Інтелектуальні Системи** | [Детальніше](https://apps.ucu.edu.ua/programs/phd-in-intelligent-systems/) |
 
 ### Сертифікатні програми
 
-- **Applied Molecular Genetics and Bioinformatics**
-- **Python for Data Science**
+| Програма                                            | Посилання                                                                               |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Інженерія Даних (Data Engineering)**              | [Детальніше](https://apps.ucu.edu.ua/programs/data-engineering/)                        |
+| **Аналіз Даних (Data Analytics)**                   | [Детальніше](https://apps.ucu.edu.ua/programs/data-analytics/)                          |
+| **Прикладна молекулярна генетика і біоінформатика** | [Детальніше](https://apps.ucu.edu.ua/prykladna-molekulyarna-genetyka-i-bioinformatyka/) |
+| **Python for Data Science**                         | [Детальніше](https://apps.ucu.edu.ua/python-for-data-science/)                          |
 
 ---
 
@@ -77,50 +73,52 @@
 
 <div style="background: linear-gradient(135deg, #662d91 0%, #8b5cf6 100%); color: white; padding: 2rem; border-radius: 12px; margin: 1.5rem 0;">
   <h4 style="margin: 0 0 0.5rem 0; color: white;">European Laboratory for Learning and Intelligent Systems</h4>
-  <p style="margin: 0;">Факультет є членом ELLIS — провідної європейської мережі досліджень у сфері машинного навчання та ШІ</p>
+  <p style="margin: 0;">Факультет є асоційованим членом ELLIS — провідної європейської мережі досліджень у сфері машинного навчання та ШІ</p>
 </div>
 
-### Machine Learning Lab
+[Детальніше про ELLIS Unit](https://apps.ucu.edu.ua/ellis/)
 
-Дослідницька лабораторія, що працює над:
+### The Machine Learning Lab
 
-- **Computer Vision** — обробка медичних зображень
-- **Natural Language Processing** — обробка української мови
-- **Reinforcement Learning** — навчання з підкріпленням
+Лабораторія машинного навчання (MLLab) була заснована у 2018 році. Дослідження лабораторії охоплюють:
+
+- **Алгоритми машинного навчання** — для контрольованих і слабоконтрольованих задач візуального розпізнавання
+- **Computer Vision** — оцінювання геометрії, обробка зображень
+- **Reinforcement Learning** — для задач оптимізації та управління
+
+[Детальніше про ML Lab](https://apps.ucu.edu.ua/mllab/)
 
 ---
 
 ## Літні школи та події
 
-- **Lviv Data Science Summer School** — щорічна літня школа з науки про дані
-- **Computational Neuroscience Summer School** — обчислювальна нейронаука
-- **Quantum Machine Learning School** — квантове машинне навчання
-- **Generative AI Weekend** — генеративний штучний інтелект
+| Подія                                        | Посилання                                                                               |
+| -------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Lviv Data Science Summer School 2025**     | [Детальніше](https://apps.ucu.edu.ua/schools/lviv-data-science-summer-school-2025/)     |
+| **Computational Neuroscience Summer School** | [Детальніше](https://apps.ucu.edu.ua/schools/computational-neuroscience-summer-school/) |
+| **Quantum Machine Learning School 2025**     | [Детальніше](https://apps.ucu.edu.ua/schools/quantum-machine-learning-school-2025/)     |
+| **Generative AI Weekend 2025**               | [Детальніше](https://apps.ucu.edu.ua/genai-school-2025/)                                |
+| **Odoo Week in UCU (ERP-Bootcamp)**          | [Детальніше](https://apps.ucu.edu.ua/schools/odoo-week-in-ucu-erp-bootcamp/)            |
 
 ---
 
-## Партнери
+## Спільнота
 
-Факультет співпрацює з провідними технологічними компаніями:
-
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin: 2rem 0;">
-  <span style="background: #f1f1f2; padding: 0.75rem 1.5rem; border-radius: 8px; color: #58595b; font-weight: 500;">SoftServe</span>
-  <span style="background: #f1f1f2; padding: 0.75rem 1.5rem; border-radius: 8px; color: #58595b; font-weight: 500;">EPAM</span>
-  <span style="background: #f1f1f2; padding: 0.75rem 1.5rem; border-radius: 8px; color: #58595b; font-weight: 500;">GlobalLogic</span>
-  <span style="background: #f1f1f2; padding: 0.75rem 1.5rem; border-radius: 8px; color: #58595b; font-weight: 500;">Grammarly</span>
-  <span style="background: #f1f1f2; padding: 0.75rem 1.5rem; border-radius: 8px; color: #58595b; font-weight: 500;">Intellias</span>
-</div>
+- [AI Meetups](https://apps.ucu.edu.ua/spilnota/ai-meetups/)
+- [NeuroUAI](https://apps.ucu.edu.ua/spilnota/neuro-uai/)
+- [Alumni](https://apps.ucu.edu.ua/alumni/)
 
 ---
 
 ## Контакти
 
-| | |
-|---|---|
-| :material-map-marker: **Адреса** | вул. Козельницька 2а, кімната 314, м. Львів, 79026 |
-| :material-phone: **Телефон** | (032) 240-99-44 |
-| :material-web: **Вебсайт** | [apps.ucu.edu.ua](https://apps.ucu.edu.ua) |
-| :material-email: **Email** | apps@ucu.edu.ua |
+|                                              |                                                            |
+| -------------------------------------------- | ---------------------------------------------------------- |
+| :material-map-marker: **Адреса**             | вул. Козельницька 2а, кімната 314, м. Львів, 79026 Україна |
+| :material-phone: **Телефон**                 | (032) 240-99-44                                            |
+| :material-web: **Вебсайт**                   | [apps.ucu.edu.ua](https://apps.ucu.edu.ua)                 |
+| :fontawesome-brands-facebook: **Facebook**   | [@csatucu](https://www.facebook.com/csatucu)               |
+| :fontawesome-brands-instagram: **Instagram** | [@ucu_apps](https://instagram.com/ucu_apps)                |
 
 ---
 
@@ -140,4 +138,4 @@
 
 </div>
 
-[:fontawesome-solid-download: Завантажити всі логотипи](../assets/logo/){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Завантажити всі логотипи](assets/downloads.md){ .md-button .md-button--primary }

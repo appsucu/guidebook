@@ -10,33 +10,33 @@
 
 <div class="grid cards" markdown>
 
--   :material-file-image:{ .lg .middle } **SVG (векторний)**
+- :material-file-image:{ .lg .middle } **SVG (векторний)**
 
-    ---
+    ***
 
     Для веб та друку високої якості
 
     [:fontawesome-solid-download: logo_aps_eng.svg](logo/logo_aps_eng.svg)
 
--   :material-file-png-box:{ .lg .middle } **PNG @2x**
+- :material-file-png-box:{ .lg .middle } **PNG @2x**
 
-    ---
+    ***
 
     Для веб-використання (растровий)
 
     [:fontawesome-solid-download: logo_aps_eng@2x.png](logo/logo_aps_eng@2x.png)
 
--   :material-palette:{ .lg .middle } **Full Color SVG**
+- :material-palette:{ .lg .middle } **Full Color SVG**
 
-    ---
+    ***
 
     Повноколірна версія для світлих фонів
 
     [:fontawesome-solid-download: logo_aps_eng_full_color.svg](logo/logo_aps_eng_full_color.svg)
 
--   :material-palette:{ .lg .middle } **Full Color PNG**
+- :material-palette:{ .lg .middle } **Full Color PNG**
 
-    ---
+    ***
 
     Повноколірна версія (растрова)
 
@@ -50,27 +50,27 @@
 
 <div class="grid cards" markdown>
 
--   :material-file-image:{ .lg .middle } **SVG (для темного фону)**
+- :material-file-image:{ .lg .middle } **SVG (для темного фону)**
 
-    ---
+    ***
 
-    [:fontawesome-solid-download: uku_logo___seal_engl 1.svg](logo/uku_logo___seal_engl%201.svg)
+    [:fontawesome-solid-download: uku_logo\_\_\_seal_engl 1.svg](logo/uku_logo___seal_engl%201.svg)
 
--   :material-palette:{ .lg .middle } **Full Color SVG**
+- :material-palette:{ .lg .middle } **Full Color SVG**
 
-    ---
+    ***
 
     [:fontawesome-solid-download: uku_logo_full_color.svg](logo/uku_logo_full_color.svg)
 
--   :material-file-png-box:{ .lg .middle } **PNG @2x**
+- :material-file-png-box:{ .lg .middle } **PNG @2x**
 
-    ---
+    ***
 
-    [:fontawesome-solid-download: uku_logo___seal_engl 1@2x.png](logo/uku_logo___seal_engl%201@2x.png)
+    [:fontawesome-solid-download: uku_logo\_\_\_seal_engl 1@2x.png](logo/uku_logo___seal_engl%201@2x.png)
 
--   :material-file-png-box:{ .lg .middle } **Full Color PNG**
+- :material-file-png-box:{ .lg .middle } **Full Color PNG**
 
-    ---
+    ***
 
     [:fontawesome-solid-download: uku_logo_full_color@2x.png](logo/uku_logo_full_color@2x.png)
 
@@ -82,34 +82,34 @@
 
 ### Приклади використання
 
-| Файл | Опис | Завантажити |
-|------|------|-------------|
-| **brand.png** | Загальний огляд бренду | [:fontawesome-solid-download:](logo/brandpng/brand.png) |
-| **main_page.png** | Приклад головної сторінки | [:fontawesome-solid-download:](logo/brandpng/main_page.png) |
-| **colors.png** | Колірна палітра | [:fontawesome-solid-download:](logo/brandpng/colors.png) |
-| **fonts.png** | Типографіка | [:fontawesome-solid-download:](logo/brandpng/fonts.png) |
-| **mainlogo.png** | Основний логотип | [:fontawesome-solid-download:](logo/brandpng/mainlogo.png) |
-| **logos+other logos.png** | Всі логотипи | [:fontawesome-solid-download:](logo/brandpng/logos+other%20logos.png) |
+| Файл                      | Опис                      | Завантажити                                                           |
+| ------------------------- | ------------------------- | --------------------------------------------------------------------- |
+| **brand.png**             | Загальний огляд бренду    | [:fontawesome-solid-download:](logo/brandpng/brand.png)               |
+| **main_page.png**         | Приклад головної сторінки | [:fontawesome-solid-download:](logo/brandpng/main_page.png)           |
+| **colors.png**            | Колірна палітра           | [:fontawesome-solid-download:](logo/brandpng/colors.png)              |
+| **fonts.png**             | Типографіка               | [:fontawesome-solid-download:](logo/brandpng/fonts.png)               |
+| **mainlogo.png**          | Основний логотип          | [:fontawesome-solid-download:](logo/brandpng/mainlogo.png)            |
+| **logos+other logos.png** | Всі логотипи              | [:fontawesome-solid-download:](logo/brandpng/logos+other%20logos.png) |
 
 ### Шаблони
 
-| Файл | Опис | Завантажити |
-|------|------|-------------|
+| Файл                   | Опис           | Завантажити                                                      |
+| ---------------------- | -------------- | ---------------------------------------------------------------- |
 | **bussiness_card.png** | Візитна картка | [:fontawesome-solid-download:](logo/brandpng/bussiness_card.png) |
-| **presentation.png** | Презентація | [:fontawesome-solid-download:](logo/brandpng/presentation.png) |
-| **blank.png** | Бланк | [:fontawesome-solid-download:](logo/brandpng/blank.png) |
-| **datax.png** | Логотип DataX | [:fontawesome-solid-download:](logo/brandpng/datax.png) |
+| **presentation.png**   | Презентація    | [:fontawesome-solid-download:](logo/brandpng/presentation.png)   |
+| **blank.png**          | Бланк          | [:fontawesome-solid-download:](logo/brandpng/blank.png)          |
+| **datax.png**          | Логотип DataX  | [:fontawesome-solid-download:](logo/brandpng/datax.png)          |
 
 ---
 
 ## Формати файлів
 
-| Формат | Призначення | Рекомендації |
-|--------|-------------|--------------|
-| **SVG** | Веб, друк | Найкраща якість, масштабується без втрат |
-| **PNG @2x** | Веб, презентації | Для екранів з високою роздільністю |
-| **PDF** | Друк | Для професійного друку |
-| **AI/EPS** | Редагування | За запитом |
+| Формат      | Призначення      | Рекомендації                             |
+| ----------- | ---------------- | ---------------------------------------- |
+| **SVG**     | Веб, друк        | Найкраща якість, масштабується без втрат |
+| **PNG @2x** | Веб, презентації | Для екранів з високою роздільністю       |
+| **PDF**     | Друк             | Для професійного друку                   |
+| **AI/EPS**  | Редагування      | За запитом                               |
 
 ---
 
@@ -135,14 +135,14 @@
 ## Потрібні інші формати?
 
 !!! note "Запит додаткових матеріалів"
-    Якщо вам потрібні логотипи в інших форматах (AI, EPS, PDF) або редаговані шаблони, зверніться на **apps@ucu.edu.ua**
+    Якщо вам потрібні логотипи в інших форматах (AI, EPS, PDF) або редаговані шаблони, зверніться на {{ contact_email() | mailto_link }}
 
 ---
 
 ## Контакти
 
-**Факультет прикладних наук УКУ**
+**{{ contact_faculty() }}**
 
-:material-email: apps@ucu.edu.ua  
-:material-web: [apps.ucu.edu.ua](https://apps.ucu.edu.ua)  
-:material-phone: +380 32 240 99 44
+:material-email: {{ contact_email() | mailto_link }}  
+:material-web: {{ contact_website_url() | external_link(contact_website_label()) }}  
+:material-phone: {{ contact_phone_uri() | tel_link(contact_phone()) }}

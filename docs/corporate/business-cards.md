@@ -15,10 +15,6 @@
 - Біла мовна бульбашка з привітанням
 - Логотип Applied Sciences Faculty (білий варіант)
 
-
-
-
-
 ---
 
 ## Контактна інформація
@@ -34,7 +30,7 @@
    Факультет прикладних наук УКУ
 
 🌐 apps.ucu.edu.ua
-📧 apps@ucu.edu.ua  
+📧 apps@ucu.edu.ua
 📞 (032) 240-99-44
 📷 @ucu.apps
 📘 facebook.com/csatucu
@@ -42,4 +38,3 @@
 ```
 
 ---
-

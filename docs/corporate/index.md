@@ -8,41 +8,41 @@
 
 <div class="grid cards" markdown>
 
--   :material-card-account-details:{ .lg .middle } **Візитки**
+- :material-card-account-details:{ .lg .middle } **Візитки**
 
-    ---
+    ***
 
     Шаблони візитних карток у фіолетовому та білому варіантах
 
     [:octicons-arrow-right-24: Переглянути](business-cards.md)
 
--   :material-presentation:{ .lg .middle } **Презентації**
+- :material-presentation:{ .lg .middle } **Презентації**
 
-    ---
+    ***
 
     Шаблони для PowerPoint та Google Slides
 
     [:octicons-arrow-right-24: Переглянути](presentations.md)
 
--   :material-file-document:{ .lg .middle } **Бланки**
+- :material-file-document:{ .lg .middle } **Бланки**
 
-    ---
+    ***
 
     Офіційні бланки для листів та документів
 
     [:octicons-arrow-right-24: Переглянути](letterhead.md)
 
--   :material-certificate:{ .lg .middle } **Сертифікати**
+- :material-certificate:{ .lg .middle } **Сертифікати**
 
-    ---
+    ***
 
     Шаблони сертифікатів та дипломів
 
     [:octicons-arrow-right-24: Переглянути](certificates.md)
 
--   :material-email:{ .lg .middle } **Email-підписи**
+- :material-email:{ .lg .middle } **Email-підписи**
 
-    ---
+    ***
 
     Стандартні підписи для електронної пошти
 
@@ -64,11 +64,11 @@
 
 ### Колірні схеми
 
-| Схема | Використання |
-|-------|--------------|
-| **Фіолетова** | Офіційні документи, презентації |
-| **Біла** | Ділова кореспонденція, бланки |
-| **Змішана** | Промо-матеріали, соціальні мережі |
+| Схема         | Використання                      |
+| ------------- | --------------------------------- |
+| **Фіолетова** | Офіційні документи, презентації   |
+| **Біла**      | Ділова кореспонденція, бланки     |
+| **Змішана**   | Промо-матеріали, соціальні мережі |
 
 ---
 

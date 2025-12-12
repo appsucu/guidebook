@@ -1,6 +1,7 @@
 # MkDocs build output
 site/
-
+venv/
+.venv/
 # Python
 __pycache__/
 *.py[cod]

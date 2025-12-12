@@ -101,31 +101,37 @@
 ## Швидке копіювання HEX
 
 **Фіолетовий:**
+
 ```
 #662d91
 ```
 
 **Зелений:**
+
 ```
 #8bc751
 ```
 
 **Білий:**
+
 ```
 #ffffff
 ```
 
 **Світло-сірий:**
+
 ```
 #f1f1f2
 ```
 
 **Сірий:**
+
 ```
 #9d9fa2
 ```
 
 **Темно-сірий:**
+
 ```
 #58595b
 ```
@@ -136,14 +142,14 @@
 
 ### Повна таблиця значень
 
-| Колір | Назва | CMYK | RGB | HEX | PANTONE |
-|:------|:------|:-----|:----|:----|:--------|
-| <span style="display: inline-block; width: 24px; height: 24px; background: #662d91; border-radius: 50%; vertical-align: middle;"></span> | Фіолетовий | 75, 100, 0, 0 | 102, 45, 145 | `#662d91` | 267 C |
-| <span style="display: inline-block; width: 24px; height: 24px; background: #8bc751; border-radius: 50%; vertical-align: middle;"></span> | Зелений | 50, 0, 90, 0 | 139, 199, 81 | `#8bc751` | 375 C |
-| <span style="display: inline-block; width: 24px; height: 24px; background: #ffffff; border-radius: 50%; border: 1px solid #ddd; vertical-align: middle;"></span> | Білий | 0, 0, 0, 0 | 255, 255, 255 | `#ffffff` | 442 C |
-| <span style="display: inline-block; width: 24px; height: 24px; background: #f1f1f2; border-radius: 50%; border: 1px solid #ddd; vertical-align: middle;"></span> | Світло-сірий | 0, 0, 0, 5 | 241, 241, 242 | `#f1f1f2` | 427 C |
-| <span style="display: inline-block; width: 24px; height: 24px; background: #9d9fa2; border-radius: 50%; vertical-align: middle;"></span> | Сірий | 0, 0, 0, 45 | 157, 159, 162 | `#9d9fa2` | 442 C |
-| <span style="display: inline-block; width: 24px; height: 24px; background: #58595b; border-radius: 50%; vertical-align: middle;"></span> | Темно-сірий | 0, 0, 0, 80 | 88, 89, 91 | `#58595b` | 424 C |
+| Колір                                                                                                                                                            | Назва        | CMYK          | RGB           | HEX       | PANTONE |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :------------ | :------------ | :-------- | :------ |
+| <span style="display: inline-block; width: 24px; height: 24px; background: #662d91; border-radius: 50%; vertical-align: middle;"></span>                         | Фіолетовий   | 75, 100, 0, 0 | 102, 45, 145  | `#662d91` | 267 C   |
+| <span style="display: inline-block; width: 24px; height: 24px; background: #8bc751; border-radius: 50%; vertical-align: middle;"></span>                         | Зелений      | 50, 0, 90, 0  | 139, 199, 81  | `#8bc751` | 375 C   |
+| <span style="display: inline-block; width: 24px; height: 24px; background: #ffffff; border-radius: 50%; border: 1px solid #ddd; vertical-align: middle;"></span> | Білий        | 0, 0, 0, 0    | 255, 255, 255 | `#ffffff` | 442 C   |
+| <span style="display: inline-block; width: 24px; height: 24px; background: #f1f1f2; border-radius: 50%; border: 1px solid #ddd; vertical-align: middle;"></span> | Світло-сірий | 0, 0, 0, 5    | 241, 241, 242 | `#f1f1f2` | 427 C   |
+| <span style="display: inline-block; width: 24px; height: 24px; background: #9d9fa2; border-radius: 50%; vertical-align: middle;"></span>                         | Сірий        | 0, 0, 0, 45   | 157, 159, 162 | `#9d9fa2` | 442 C   |
+| <span style="display: inline-block; width: 24px; height: 24px; background: #58595b; border-radius: 50%; vertical-align: middle;"></span>                         | Темно-сірий  | 0, 0, 0, 80   | 88, 89, 91    | `#58595b` | 424 C   |
 
 ---
 
@@ -173,12 +179,12 @@
 
 ### Нейтральні кольори
 
-| Колір | Призначення |
-|-------|-------------|
-| **Темно-сірий** | Основний текст, заголовки на світлому фоні |
-| **Сірий** | Другорядний текст, підписи, мета-інформація |
-| **Світло-сірий** | Фони секцій, розділювачі, карточки |
-| **Білий** | Основний фон, текст на темному фоні |
+| Колір            | Призначення                                 |
+| ---------------- | ------------------------------------------- |
+| **Темно-сірий**  | Основний текст, заголовки на світлому фоні  |
+| **Сірий**        | Другорядний текст, підписи, мета-інформація |
+| **Світло-сірий** | Фони секцій, розділювачі, карточки          |
+| **Білий**        | Основний фон, текст на темному фоні         |
 
 ---
 
@@ -191,13 +197,13 @@
       /* Primary Colors */
       --asf-purple: #662d91;
       --asf-green: #8bc751;
-      
+
       /* Secondary Colors */
       --asf-white: #ffffff;
       --asf-light-gray: #f1f1f2;
       --asf-gray: #9d9fa2;
       --asf-dark-gray: #58595b;
-      
+
       /* Gradients */
       --asf-gradient-purple: linear-gradient(135deg, #662d91 0%, #8b5cf6 100%);
       --asf-gradient-green: linear-gradient(135deg, #8bc751 0%, #a3e635 100%);
@@ -250,19 +256,8 @@
 
 ## Правила використання
 
-!!! success "Рекомендовано"
-    - Використовуйте точні значення кольорів з палітри
-    - Забезпечуйте достатній контраст (мінімум 4.5:1 для тексту)
-    - Фіолетовий — для основних акцентів, зелений — для другорядних
-    - Використовуйте градієнти для динамічних елементів
+!!! success "Рекомендовано" - Використовуйте точні значення кольорів з палітри - Забезпечуйте достатній контраст (мінімум 4.5:1 для тексту) - Фіолетовий — для основних акцентів, зелений — для другорядних - Використовуйте градієнти для динамічних елементів
 
-!!! warning "Уникайте"
-    - Не змінюйте відтінки основних кольорів
-    - Не використовуйте більше 3 кольорів одночасно
-    - Не розміщуйте зелений текст на фіолетовому фоні (і навпаки)
-    - Не використовуйте кольори з низьким контрастом для тексту
+!!! warning "Уникайте" - Не змінюйте відтінки основних кольорів - Не використовуйте більше 3 кольорів одночасно - Не розміщуйте зелений текст на фіолетовому фоні (і навпаки) - Не використовуйте кольори з низьким контрастом для тексту
 
-!!! danger "Заборонено"
-    - Заміна брендових кольорів на інші
-    - Використання кольорів, що не входять до палітри
-    - Зміна прозорості основних кольорів у логотипі
+!!! danger "Заборонено" - Заміна брендових кольорів на інші - Використання кольорів, що не входять до палітри - Зміна прозорості основних кольорів у логотипі
