@@ -3,7 +3,7 @@ site_description: Гайдбук використання логотипів т�
 site_author: Applied Sciences Faculty UCU
 site_url: https://apps.ucu.edu.ua/guidebook
 repo_url: https://github.com/appsucu/guidebook
-repo_name: ucu-apps/guidebook
+repo_name: appsucu/guidebook
 
 theme:
   name: material
