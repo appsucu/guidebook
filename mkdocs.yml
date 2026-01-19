@@ -66,11 +66,13 @@ extra_css:
 # Navigation structure
 nav:
   - Home: index.md
-  - APPS UCU: apps_ucu.md
+  # - APPS UCU: apps_ucu.md  # Тимчасово приховано
   - Логотипи:
     - Огляд: logos/index.md
     - Логотип УКУ: logos/uku-logo.md
     - DataX: logos/datax-logo.md
+    - Digital Humanities: logos/digital-humanities-logo.md
+    - Центр: logos/center-logo.md
   - Brand:
     - Кольори: brand/colors.md
     - Типографіка: brand/fonts.md

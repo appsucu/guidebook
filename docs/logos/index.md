@@ -73,6 +73,22 @@
 
     [:octicons-arrow-right-24: Переглянути](datax-logo.md)
 
+- :material-account-group:{ .lg .middle } **Digital Humanities**
+
+    ***
+
+    Логотип програми Digital Humanities
+
+    [:octicons-arrow-right-24: Переглянути](digital-humanities-logo.md)
+
+- :material-office-building:{ .lg .middle } **Центр**
+
+    ***
+
+    Логотип Центру (в розробці)
+
+    [:octicons-arrow-right-24: Переглянути](center-logo.md)
+
 </div>
 
 ---
