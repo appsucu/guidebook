@@ -39,26 +39,9 @@
 
 ---
 
-## Технічні характеристики
+## Завантажити
 
-| Формат | Розмір файлу | Використання |
-|--------|--------------|--------------|
-| **SVG** | Векторний | Друк, веб (масштабування) |
-| **PNG** | Растровий | Веб, презентації |
-
----
-
-## Завантаження
-
-<div style="display: flex; gap: 1rem; margin: 2rem 0;">
-  <a href="/guidebook/assets/logo/humanity/Digital Humanities.svg" download class="md-button">
-    :fontawesome-solid-download: SVG версія
-  </a>
-  <a href="/guidebook/assets/logo/humanity/Digital Humanities_white.png" download class="md-button">
-    :fontawesome-solid-download: PNG (білий)
-  </a>
-</div>
-
----
-
-[:octicons-arrow-left-24: Повернутися до логотипів](index.md){ .md-button }
+| Формат | Використання | Посилання |
+|--------|--------------|-----------:|
+| **SVG** | Векторний (для вебу та друку) | [Завантажити (Вектор)](/guidebook/assets/logo/humanity/Digital%20Humanities.svg) |
+| **PNG (білий)** | Растровий (для темного фону) | [Завантажити (PNG)](/guidebook/assets/logo/humanity/Digital%20Humanities_white.png) |

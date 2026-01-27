@@ -62,4 +62,3 @@ DataX — освітня ініціатива Факультету прикла�
 | **PNG (білий)**    | [datax_white.png](../assets/logo/datax/datax_white.png)           |
 | **PNG (монохром)** | [datax_monochrome.png](../assets/logo/datax/datax_monochrome.png) |
 
-[:fontawesome-solid-arrow-left: Повернутися до логотипів](index.md){ .md-button }

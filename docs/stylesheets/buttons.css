@@ -14,11 +14,12 @@
 /* Base Button - Outline Style */
 .md-typeset .md-button {
   background-color: transparent !important;
-  border: 2px solid #8bc751 !important;
+  border: 1.5px solid #8bc751 !important;
   color: #8bc751 !important;
-  border-radius: 8px;
+  border-radius: 6px;
   font-weight: 600;
-  padding: 0.8rem 1.5rem;
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
   transition: all 0.25s ease;
   display: inline-flex;
   align-items: center;
@@ -36,7 +37,7 @@
 /* Primary Button - Same Outline Style */
 .md-typeset .md-button--primary {
   background-color: transparent !important;
-  border: 2px solid #8bc751 !important;
+  border: 1.5px solid #8bc751 !important;
   color: #8bc751 !important;
 }
 
@@ -51,7 +52,7 @@
    ======================================== */
 [data-md-color-scheme="latte"] .md-typeset .md-button {
   background-color: transparent !important;
-  border: 2px solid #662d91 !important;
+  border: 1.5px solid #662d91 !important;
   color: #662d91 !important;
 }
 
@@ -62,7 +63,7 @@
 }
 
 [data-md-color-scheme="latte"] .md-typeset .md-button--primary {
-  border: 2px solid #8bc751 !important;
+  border: 1.5px solid #8bc751 !important;
   color: #8bc751 !important;
 }
 
@@ -78,7 +79,7 @@
 [data-md-color-scheme="macchiato"] .md-typeset .md-button,
 [data-md-color-scheme="mocha"] .md-typeset .md-button {
   background-color: transparent !important;
-  border: 2px solid #8bc751 !important;
+  border: 1.5px solid #8bc751 !important;
   color: #8bc751 !important;
 }
 

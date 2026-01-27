@@ -44,4 +44,4 @@
 
 ---
 
-[:octicons-arrow-left-24: Повернутися до логотипів](index.md){ .md-button }
+[← Повернутися до логотипів](index.md){ .md-button }
