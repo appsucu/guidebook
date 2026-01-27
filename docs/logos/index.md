@@ -81,11 +81,11 @@
 
     [:octicons-arrow-right-24: Переглянути](digital-humanities-logo.md)
 
-- :material-office-building:{ .lg .middle } **Центр**
+- :material-office-building:{ .lg .middle } **Center for Data, AI & Society**
 
     ***
 
-    Логотип Центру (в розробці)
+    Логотип Center for Data, AI & Society
 
     [:octicons-arrow-right-24: Переглянути](center-logo.md)
 

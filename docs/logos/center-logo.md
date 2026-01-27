@@ -1,88 +1,46 @@
-# Центр
+# Center for Data, AI & Society
 
-<div style="text-align: center; margin: 2rem 0;">
-  <!-- Тимчасово використовуємо логотип APPS, поки не буде наданий логотип Центру -->
-  <img src="/guidebook/assets/logo/logo_aps_eng_full_color.svg" alt="Центр Logo" style="max-width: 400px; width: 100%; opacity: 0.5;">
-  <p style="color: #666; font-style: italic; margin-top: 1rem;">Логотип буде додано після отримання від п.Тетяни</p>
-</div>
+<p align="center">
+  <img src="/guidebook/assets/logo/centerfordataaicociety/brandguidlinescdas.png" alt="Center for Data, AI & Society Logo" style="max-width: 800px; width: 100%;">
+</p>
 
-Логотип Центру буде відображати місію та цінності організації.
+Логотип **Center for Data, AI & Society** побудований на метафорі центру тяжіння та коловороту ідей.
 
----
+У його основі — центральна точка, що символізує сам Центр як ядро знань, діалогу та розвитку. Це місце, де сходяться різні ролі, досвіди та перспективи: студенти, викладачі, дослідники, інвестори та всі, хто цікавиться темами даних, штучного інтелекту й їх впливу на суспільство.
+
+Кругова форма та обертові лінії навколо центру передають ідею безперервного руху, обміну та взаємодії. Це візуальна метафора коловороту — процесу, у якому знання не є статичними, а постійно циркулюють, трансформуються та збагачуються через спільну роботу.
+
+Точки по колу символізують людей і спільноти, що залучені до цього процесу.
 
 ## Варіанти логотипу
 
-!!! info "В розробці"
-    Варіанти логотипу будуть додані після отримання матеріалів від п.Тетяни
-
 ### Основний варіант
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
 
-<div style="background: #ffffff; padding: 2rem; border-radius: 12px; text-align: center; border: 1px solid #e5e7eb;">
-  <div style="background: #f5f5f5; padding: 2rem; border-radius: 8px; color: #999; text-align: center;">
-    Логотип для світлого фону
-    <br><small>Буде додано незабаром</small>
-  </div>
-  <p style="margin: 1rem 0 0 0; color: #666; font-size: 0.875rem;">Для світлого фону</p>
+<div style="text-align: center; width: 100%; max-width: 600px;">
+  <img src="/guidebook/assets/logo/centerfordataaicociety/Logo_bg-08.png" alt="Logo on Light Background" style="max-width: 100%; border-radius: 12px;">
 </div>
 
-<div style="background: #1e1e2e; padding: 2rem; border-radius: 12px; text-align: center;">
-  <div style="background: #333; padding: 2rem; border-radius: 8px; color: #ccc; text-align: center;">
-    Логотип для темного фону
-    <br><small>Буде додано незабаром</small>
-  </div>
-  <p style="margin: 1rem 0 0 0; color: #ccc; font-size: 0.875rem;">Для темного фону</p>
+<div style="text-align: center; width: 100%; max-width: 600px;">
+  <img src="/guidebook/assets/logo/centerfordataaicociety/Logo_bg-01.png" alt="Logo on Dark Background" style="max-width: 100%; border-radius: 12px;">
 </div>
 
 </div>
 
----
+## Ресурси
 
-## Використання
+- [📘 Брендбук (Google Drive)](https://drive.google.com/drive/u/0/folders/14CMqVKcCxpbLmjbJ2E4w8sGE0HiqnoFY)
 
-Логотип Центру використовуватиметься для:
+## Завантажити
 
-- Офіційних документів
-- Веб-сайту та цифрових матеріалів
-- Презентацій та навчальних матеріалів
-- Сертифікатів та дипломів
-- Корпоративної ідентичності
-
----
-
-## Технічні характеристики
-
-!!! warning "Очікується"
-    Технічні характеристики будуть визначені після отримання логотипу
-
-| Формат | Розмір файлу | Використання |
-|--------|--------------|--------------|
-| **SVG** | Векторний | Друк, веб (масштабування) |
-| **PNG** | Растровий | Веб, презентації |
-| **PDF** | Векторний | Професійний друк |
-
----
-
-## Завантаження
-
-!!! note "Незабаром"
-    Файли для завантаження будуть доступні після отримання логотипу від п.Тетяни
-
-<div style="display: flex; gap: 1rem; margin: 2rem 0;">
-  <button class="md-button" disabled>
-    :fontawesome-solid-download: SVG версія (незабаром)
-  </button>
-  <button class="md-button" disabled>
-    :fontawesome-solid-download: PNG версія (незабаром)
-  </button>
-</div>
-
----
-
-## Контакт
-
-Для отримання додаткової інформації про логотип Центру звертайтеся до п.Тетяни.
+| Формат | Використання | Посилання |
+|--------|--------------|-----------|
+| **SVG** | Векторний (для вебу та друку) | [Завантажити (Вектор)](https://drive.google.com/drive/u/0/folders/1yPW-28QW4QzReSSHz-LOnDUjnBttggEm) |
+| **PNG (прозорий)** | Растровий (без фону) | [Завантажити (PNG)](https://drive.google.com/drive/u/0/folders/1fVbChzeNCvBUj2FhGtY-fdQJyab-UZP0) |
+| **PNG (з фоном)** | Растровий (з кольоровим фоном) | [Завантажити (PNG)](https://drive.google.com/drive/u/0/folders/1BwN1lwcdkFBL39azXtX46FyM0osMYNtl) |
+| **AI / EPS** | Професійний друк та редагування | [Завантажити (Вектор)](https://drive.google.com/drive/u/0/folders/1yPW-28QW4QzReSSHz-LOnDUjnBttggEm) |
+| **Favicon / Mark** | Іконки та знак Центру | [Завантажити (PNG)](https://drive.google.com/drive/u/0/folders/1oTYV9NBlCtJotJFMOd1JHCC1GPaIOYBe) |
 
 ---
 
