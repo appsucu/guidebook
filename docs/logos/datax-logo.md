@@ -1,7 +1,7 @@
 # Логотип DataX
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/guidebook/assets/logo/datax/datax.png" alt="DataX Logo" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="/guidebook/assets/logo/datax/datax.png" alt="DataX Logo" style="max-width: 100;">
 </div>
 
 DataX — освітня ініціатива Факультету прикладних наук у сфері Data Science та аналітики даних.
@@ -23,8 +23,6 @@ DataX — освітня ініціатива Факультету прикла�
 </div>
 
 </div>
-
----
 
 ## Елементи логотипу
 
