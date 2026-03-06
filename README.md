@@ -8,7 +8,7 @@ pip install mkdocs mkdocs-material
 pip3 install mkdocs-git-revision-date-localized-plugin
 
 - mkdocs new .
-- mkdocs serve
+- mkdocs serve --livereload
 - mkdocs build
 - mkdocs gh-deploy
 

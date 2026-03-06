@@ -2,6 +2,7 @@
 site/
 venv/
 .venv/
+.antigravityignore
 # Python
 __pycache__/
 *.py[cod]
