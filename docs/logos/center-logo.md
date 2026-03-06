@@ -42,6 +42,18 @@
 | **AI / EPS** | Професійний друк та редагування | [Завантажити (Вектор)](https://drive.google.com/drive/u/0/folders/1yPW-28QW4QzReSSHz-LOnDUjnBttggEm) |
 | **Favicon / Mark** | Іконки та знак Центру | [Завантажити (PNG)](https://drive.google.com/drive/u/0/folders/1oTYV9NBlCtJotJFMOd1JHCC1GPaIOYBe) |
 
+## Згадки про Center for Data, AI & Society
+
+### Офіційні
+
+1. [UCU: Ukrainian Catholic University opens Center for Data, AI and Society](https://ucu.edu.ua/en/news/ukrayinskyj-katolytskyj-universytet-vidkryvaye-tsentr-dlya-danyh-shi-ta-suspilstva/)
+2. [UCU Foundation: Ukrainian Catholic University opens Center for Data, AI and Society](https://ucufoundation.org/ukrainian-catholic-university-opens-center-for-data-ai-and-society/)
+
+### Медіа
+
+1. [dev.ua: UCU launches Center for Data, AI and Society](https://dev.ua/en/news/v-uku-zapuskaiut-center-for-data-ai-and-society-tsentr-pratsiuvatyme-iak-mizhfakultetskyi-khab-shcho-obiednaie-doslidnykiv-riznykh-haluzei-1759899542)
+2. [ITTNews: Католицький університет відкрив Center for Data, AI and Society](https://ittnews.kiev.ua/katolytskyy-universytet-vidkryv-center-for-data-ai-and-society-oseredok-doslidzhen-8046/)
+
 ---
 
 [← Повернутися до логотипів](index.md){ .md-button }

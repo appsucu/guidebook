@@ -60,3 +60,12 @@ DataX — освітня ініціатива Факультету прикла�
 | **PNG (білий)**    | [datax_white.png](../assets/logo/datax/datax_white.png)           |
 | **PNG (монохром)** | [datax_monochrome.png](../assets/logo/datax/datax_monochrome.png) |
 
+## Згадки про DataX
+
+### Офіційні
+
+1. [UCU Applied Sciences Faculty: Certification program "Data Engineering"](https://apps.ucu.edu.ua/en/data-engineering/)
+2. [UCU Applied Sciences Faculty: Data Engineering program page](https://apps.ucu.edu.ua/en/programs/data-engineering/)
+3. [UCU Applied Sciences Faculty: Master's Program in Data Science](https://apps.ucu.edu.ua/en/data-science/)
+
+---

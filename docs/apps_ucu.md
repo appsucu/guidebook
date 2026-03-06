@@ -139,3 +139,19 @@
 </div>
 
 [:fontawesome-solid-download: Завантажити всі логотипи](assets/downloads.md){ .md-button .md-button--primary }
+
+---
+
+## Згадки про APPS
+
+### Офіційні
+
+1. [UCU Applied Sciences Faculty: Home page](https://apps.ucu.edu.ua/en/)
+2. [UCU Applied Sciences Faculty: About us](https://apps.ucu.edu.ua/en/about-us/)
+3. [UCU: Факультету прикладних наук УКУ - 10 років](https://ucu.edu.ua/news/fakultetu-prykladnyh-nauk-uku-10-rokiv/)
+4. [UCU: A new standard in IT education - The UCU Applied Sciences Faculty presented its academic report](https://ucu.edu.ua/en/news/novyj-standart-v-it-osviti-fakultet-prykladnyh-nauk-uku-predstavyv-akademichnyj-zvit/)
+
+### Додатково
+
+1. [Вступ УКУ: Все про Факультет прикладних наук](https://vstup.ucu.edu.ua/vstup-uku/vse-pro-fakultet-prykladnyh-nauk/)
+2. [Wiki UCU: Факультет прикладних наук](https://wiki.ucu.edu.ua/fakultet_prykladnykh_nauk)
